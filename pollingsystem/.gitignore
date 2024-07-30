@@ -1,0 +1,9 @@
+virtualenv/*
+logs/*
+db.sqlite3
+sample_data.txt
+media/*
+.env
+logs/*
+!logs/
+*.pyc
